@@ -9,8 +9,7 @@ In the original code, the Cycle-Spinning (CS) method has been applied to the mod
 
 <div align="center">
   <p>
-
-      <img width="850" >
+  <img width="850" src="https://github.com/UlkuUZUN/assets/blob/main/cs-densenet.png">
   </p>
 </div>
 
