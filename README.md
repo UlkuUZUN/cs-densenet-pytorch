@@ -13,3 +13,4 @@ In the original code, the Cycle-Spinning (CS) method has been applied to the mod
   </p>
 </div>
 
+densenet_cycle_spinning_max.py file an example of employment of cycle-spinning. max, mean or median aggregation functions have been tried.
